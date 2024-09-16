@@ -1,0 +1,6 @@
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\obj\Debug\CousinsinBT.csproj.AssemblyReference.cache
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\obj\Debug\CousinsinBT.csproj.CoreCompileInputs.cache
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\bin\Debug\CousinsinBT.exe
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\bin\Debug\CousinsinBT.pdb
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\obj\Debug\CousinsinBT.exe
+C:\Users\rumey\RiderProjects\CousinsinBT\CousinsinBT\obj\Debug\CousinsinBT.pdb
